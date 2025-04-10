@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Chicken Momo",
+        "image": "https://img-global.cpcdn.com/recipes/5bcb750fbcfa4c9e/680x482cq70/chicken-fried-momo-recipe-main-photo.jpg",
+        "recipe": "https://www.archanaskitchen.com/chicken-momos-recipe-delicious-steamed-chicken-dumplings"
+    },
+
+    {
+        "name": "Butter Paneer",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-butter-masala-recipe-2.jpg",
+        "recipe": "https://www.indianhealthyrecipes.com/paneer-butter-masala-restaurant-style/"
+    },
+
+    {
+        "name": "Chicken Biryani",
+        "image": "https://i.ytimg.com/vi/jzE4oKj-kn0/hqdefault.jpg",
+        "recipe": "https://www.indianhealthyrecipes.com/chicken-biryani-recipe/"
+    },
+
+    {
+        "name": "Litti Choka",
+        "image": "https://static.toiimg.com/thumb/53188495.cms?width=1200&height=900",
+        "recipe": "https://www.vegrecipesofindia.com/litti-chokha-recipe/"
+    },
+
+    {
+        "name": "Gajar Halwa",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KSjeFFcgNoSOXMebxZ3zTH8eIA6_VUMUdQ&s",
+        "recipe": "https://www.indianhealthyrecipes.com/carrot-halwa-recipe-gajar-ka-halwa-recipe/"
+    },
+
+    {
+        "name": "Samosa",
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/12/samosa-recipe.jpg",
+        "recipe": "https://www.indianhealthyrecipes.com/samosa-recipe-make-samosa/"
+    },
+
+    {
+        "name": "Pav Bhaji",
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2022/07/Pav-bhaji.jpg",
+        "recipe": "https://www.indianhealthyrecipes.com/pav-bhaji-recipe-how-to-make-pav-bhaji-step-by-step-pictures/"
+    }
+]
