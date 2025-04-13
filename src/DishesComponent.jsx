@@ -3,7 +3,7 @@ export const Dishes = ({ name, image, recipe }) => {
       <div className="h-[12rem] w-[11rem] border-2 border-solid to-black flex items-center justify-center flex-col bg-slate-800 m-2" >
         <img className="w-full h-[8rem]" src={image} alt={name} />
   
-        <h4 className="font-semibold text-sm text-white">Name:{name}</h4>
+        <h4 className="font-semibold text-sm text-white">{name}</h4>
         <a
           href={recipe}
           target="_blank"
